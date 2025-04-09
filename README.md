@@ -1,7 +1,7 @@
-<h1 align="center">✨ Oi, eu sou a Ingrid! ✨</h1>
+<h1 align="center">✨ Olá, eu sou a Ingrid! ✨</h1>
 
 <p align="center">
-  💻 Estudante de programação | 🚀 Futura Dev Full Stack | 📊 Interessada em Análise de Dados
+  💻 Estudante de Programação | 🚀 Futura Desenvolvedora Full Stack | 📊 Entusiasta em Análise de Dados
 </p>
 
 ---
@@ -9,11 +9,11 @@
 ## 👩‍💻 Sobre mim
 
 Sou apaixonada por tecnologia e estou em constante evolução no universo da programação.  
-Atualmente, trabalho como **Suporte Técnico** e curso **Análise e Desenvolvimento de Sistemas** 🎓
+Atualmente, atuo como **Suporte Técnico** e curso **Análise e Desenvolvimento de Sistemas** 🎓
 
-Tenho me dedicado ao desenvolvimento web, com foco em **me tornar uma desenvolvedora Full Stack**, e também venho explorando com bastante interesse o campo da **análise de dados** — área que admiro pela capacidade de gerar insights poderosos a partir de informações.
+Tenho direcionado meus estudos para o desenvolvimento web, com o objetivo de me tornar uma **desenvolvedora Full Stack**. Paralelamente, tenho aprofundado meus conhecimentos em **análise de dados**, área pela qual sou especialmente atraída pela capacidade de transformar informações em insights estratégicos.
 
-Além disso, sou a criadora do **DevFlow** 🧠📁 — um sistema de produtividade desenvolvido no Notion, pensado para devs que desejam mais organização, clareza e performance na carreira.
+Sou também a idealizadora do **DevFlow** 🧠📁 — um sistema de produtividade criado no Notion, voltado para desenvolvedores(as) que buscam mais organização, clareza e performance na carreira.
 
 ---
 
@@ -23,7 +23,7 @@ Além disso, sou a criadora do **DevFlow** 🧠📁 — um sistema de produtivid
 - 🧠 SQL  
 - 🌐 HTML & CSS  
 - ⚙️ JavaScript  
-- ☁️ Conceitos de Cloud com AWS
+- ☁️ Conceitos de Cloud Computing com AWS
 
 ---
 
@@ -31,6 +31,3 @@ Além disso, sou a criadora do **DevFlow** 🧠📁 — um sistema de produtivid
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ingrid-sales-92a773237)  
 🛒 [Conheça o DevFlow](https://pay.kiwify.com.br/qkQJuJX)
-
----
-
